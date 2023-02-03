@@ -1,4 +1,4 @@
-namespace Identity.api;
+namespace Admin.api;
 
 public class WeatherForecast
 {
